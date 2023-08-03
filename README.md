@@ -1,15 +1,10 @@
-# Hey, I'm Mihir! 👋
+## Mihir Anand
+> 🎓 Studying **Computer Science at Stanford University** \
+> 🚀 Passionate about **Systems Engineering, AI/ML, Product Design**
 
-I'm a Computer Science student at Stanford University with a passion for systems, AI/ML, and product design. With a creative and entrepreneurial spirit, I enjoy problem-solving, innovating, and learning from those around me.
+### 🛠️ Skills & Interests
+- **Languages:** Java, Python, C, C++, Swift, R
+- **Tools:** Github, Xcode, Visual Studio Code, Figma, AutoCAD, Cisco Networking
+- **Interests:** Crafting efficient system architectures, applying AI in innovative ways, and designing user-centric UX/UI.
 
-## 🌟 Interests
-
-- **Systems Engineering**: Delving into efficient and robust system architectures.
-- **AI & Machine Learning**: Exploring innovative ways to apply AI in various domains.
-- **Product Design**: Crafting user-centric designs and UX/UI.
-
-
-## 💼 Skills
-
-- **Programming Languages**: Java, Python, C, C++, Swift, R
-- **Tools**: Github, Xcode, Visual Studio Code, Figma, AutoCAD, Cisco Networking
+💡 **I believe in problem-solving, innovation, and continuous learning.**
