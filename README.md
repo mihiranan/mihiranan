@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey, I'm Mihir! 👋
 
-<!--
-**mihirana/mihirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Stanford University with a passion for systems, AI/ML, and product design. With a creative and entrepreneurial spirit, I enjoy problem-solving, innovating, and learning.
 
-Here are some ideas to get you started:
+## 🌟 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Systems Engineering**: Delving into efficient and robust system architectures.
+- **AI & Machine Learning**: Exploring innovative ways to apply AI in various domains.
+- **Product Design**: Crafting user-centric designs and UX/UI.
+
+
+## 💼 Skills
+
+- **Programming Languages**: Java, Python, C, C++, Swift, R
+- **Tools**: Github, Xcode, Visual Studio Code, Figma, AutoCAD, Cisco Networking
