@@ -1,6 +1,6 @@
 # Hey, I'm Mihir! 👋
 
-I'm a Computer Science student at Stanford University with a passion for systems, AI/ML, and product design. With a creative and entrepreneurial spirit, I enjoy problem-solving, innovating, and learning.
+I'm a Computer Science student at Stanford University with a passion for systems, AI/ML, and product design. With a creative and entrepreneurial spirit, I enjoy problem-solving, innovating, and learning from those around me.
 
 ## 🌟 Interests
 
